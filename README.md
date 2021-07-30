@@ -15,9 +15,9 @@
 - 🖥 &nbsp; ArcGIS | SPSS
 <br/>
 
-[![Abel bin kandanda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aAbelbinkandanda_icons=true)](https://github.com/Abelbinkandanda)
+[![Abel bin kandanda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abelbinkandanda_icons=true)](https://github.com/Abelbinkandanda)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abelbinkandandaa&show_icons=true&theme=radical&layout=compact)](https://github.com/Abelbinkandanda/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abelbinkandanda&show_icons=true&theme=radical&layout=compact)](https://github.com/Abelbinkandanda/github-readme-stats)
 
 <h3>🛠 Design</h3>
 
