@@ -11,7 +11,7 @@
 - 💻 &nbsp;  JavaScript | Java | C# 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | PHP
 - 🛢 &nbsp; MySQL | SQLServer
-- 🔧 &nbsp; Git | GitHub | Docker
+- 🔧 &nbsp; Git | GitHub
 - 🖥 &nbsp; ArcGIS | SPSS
 <br/>
 
