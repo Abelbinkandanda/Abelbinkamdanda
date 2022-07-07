@@ -9,7 +9,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp;  JavaScript | Java | C# 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | PHP
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | PHP | Flutter | Dart
 - 🛢 &nbsp; MySQL | SQLServer
 - 🔧 &nbsp; Git | GitHub
 - 🖥 &nbsp; ArcGIS | SPSS
